@@ -1,4 +1,4 @@
--By Jasaswi Behera
+-By Jasaswi Behera.
 
 #Calculator
 This is an example project on how to make an image gallery using HTML, CSS, and JavaScript
